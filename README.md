@@ -1,5 +1,4 @@
-## Practical Implementations
-
+## Lecture Notes
 
 ## Syllabus
 
