@@ -4,10 +4,10 @@ Hachem Madmoun & Carl Remlinger
 ## Syllabus
 
 
-| Date    | Lectures topics  | 
+| Date    | Topics | 
 |-------- | ---------------- |
 | Oct 21  | Getting started with Keras and first applications | 
-| Nov 4   | Natural Language Processing | 
+| Nov 4   | NLP & Regularization | 
 | unknown | Generative Deep Learning : VAE - GANs | 
 | unknown | Reinforcement Learning | 
  
