@@ -2,7 +2,7 @@
 ## Syllabus
 
 
-| Date    | Topic | 
+| Date    | Topics | 
 |-------- | ---------------- |
 | Oct 21  | Getting started with Keras and first applications | 
 | Nov 4   | NLP & Regularization | 
