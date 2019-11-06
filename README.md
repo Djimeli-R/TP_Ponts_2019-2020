@@ -1,5 +1,3 @@
-## Authors
-Hachem Madmoun & Carl Remlinger
 
 ## Syllabus
 
